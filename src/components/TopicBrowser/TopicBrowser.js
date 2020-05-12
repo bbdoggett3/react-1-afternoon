@@ -10,6 +10,7 @@ class TopicBrowser extends Component {
     render() {
         return(
             <div>
+                <h1>Ben's Toy Problems</h1>
                 <EvenAndOdd />
                 <FilterObject/>
                 <FilterString/>
